@@ -14,7 +14,7 @@ The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application is started by clicking the red "Generate Password" button. The page is reloaded by clicking the red "Reset" button.](./assets/images/)<add image path here>
 
-![The following video illustrates the different prompt functionality and how criteria guidelines are addressed during user interaction]()
+![The following video illustrates the different prompt functionality and how criteria guidelines are addressed during user interaction](assets/video/password_generator_v2.mov)
 
 ## Application Links
 
