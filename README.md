@@ -20,7 +20,7 @@ The following image shows the web application's appearance and functionality:
 
 [Live Link](https://jacih.github.io/Password-Generator/)
 
-GitHub Repository
+[GitHub Repository](https://github.com/jacih/Password-Generator.git)
 
 ## License
 
