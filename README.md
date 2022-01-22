@@ -18,9 +18,9 @@ The following image shows the web application's appearance and functionality:
 
 ## Application Links
 
-Live Link:
+![Live Link](https://jacih.github.io/Password-Generator/)
 
-GitHub Repository:
+GitHub Repository
 
 ## License
 
